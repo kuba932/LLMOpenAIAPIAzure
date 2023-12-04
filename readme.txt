@@ -1,0 +1,1 @@
+test dla wersji openai 0.28
